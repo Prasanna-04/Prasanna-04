@@ -32,10 +32,7 @@
 
 ###
 
-<p align="left">👋 I'm a Ph.D. student at the University of Galway, Ireland, funded by the SFI Centre for Research Training in Artificial Intelligence (CRT-AI) and the College of Science and Engineering, starting from September 2023.<br><br>🔭 I’m currently working on machine learning, deep learning, and natural language processing (NLP), with a focus on under-resourced languages, sentiment analysis, offensive language, and hate speech detection, especially related to the LGBTQIA+ community.<br><br>📚 I’m currently learning and exploring more about multilingual NLP, fairness in AI, and language representation for social good.<br><br>⚡ In my free time, I enjoy collaborating on shared tasks, reading papers, and contributing to open-source NLP datasets, especially involving social media and low-resource languages.<br>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>🧠 My Background<br><br>🧪 Former Research Assistant at the Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway (Feb 2023 – Sep 2023).<br><br>🎓 MSc in Computer Science with a specialization in Machine Intelligence from IIITM-K, India (2020 – 2022).<br><br>🔬 Former Research Intern working on Dravidian languages in NLP.<br>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>📈 Academic Contributions<br><br>📄 Published in leading conferences and journals: LDK, FIRE, RANLP, LRE, CSL, NLP.<br><br>🧪 Organized shared tasks for ACL 2022, EACL 2021, and EACL 2024 on social media text analysis.<br><br>📊 h-index: 14 | i10-index: 17 | Citations: 688 (as of March 2024 on Google Scholar)</p>
-
-###
-
+<p align="left">👋 I'm a Ph.D. student at the University of Galway, Ireland, funded by the SFI Centre for Research Training in Artificial Intelligence (CRT-AI) and the College of Science and Engineering, starting from September 2023.<br><br>🔭 I’m currently working on machine learning, deep learning, and natural language processing (NLP), with a focus on under-resourced languages, sentiment analysis, offensive language, and hate speech detection, especially related to the LGBTQIA+ community.<br><br>📚 I’m currently learning and exploring more about multilingual NLP, fairness in AI, and language representation for social good.<br><br>⚡ In my free time, I enjoy collaborating on shared tasks, reading papers, and contributing to open-source NLP datasets, especially involving social media and low-resource languages.<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------<br>🧠 My Background<br><br>🧪 Former Research Assistant at the Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway (Feb 2023 – Sep 2023).<br><br>🎓 MSc in Computer Science with a specialization in Machine Intelligence from IIITM-K, India (2020 – 2022).<br><br>🔬 Former Research Intern working on Dravidian languages in NLP.<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------<br>📈 Academic Contributions<br><br>📄 Published in leading conferences and journals: LDK, FIRE, RANLP, LRE, CSL, NLP.<br><br>🧪 Organized shared tasks for ACL 2022, EACL 2021, and EACL 2024 on social media text analysis.<br><br>📊 h-index: 14 | i10-index: 17 | Citations: 688 (as of March 2024 on Google Scholar)</p><br>--------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -79,9 +76,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
+<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -91,3 +86,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna-04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-04&theme=redical&radius=0" height="220" alt="activity-graph graph"  />
 </div>
+<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
